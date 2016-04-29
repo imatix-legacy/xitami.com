@@ -35,7 +35,7 @@ website as of about
 
 The website snapshot can be viewed at:
 
-*   https://imatix-legacy.github.com/xitami.com/
+*   https://imatix-legacy.github.io/xitami.com/
 
 (which is the same as these files, but with the internal links fixed up
 to be relative links).
